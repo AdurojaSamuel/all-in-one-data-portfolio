@@ -21,7 +21,7 @@ watch(y, (value) => {
       <Disclosure v-slot="{ open }">
         <div class="flex justify-between h-16">
           <div class="flex items-center">
-            <a href="#" class="text-xl font-bold">Data Scientist · Data Engineer · Analytics Engineer</a>
+            <a href="#" class="text-xl font-bold">Data Product <span class="text-primary-600">Excellence</span></a>
           </div>
           
           <!-- Desktop menu -->
@@ -29,7 +29,6 @@ watch(y, (value) => {
             <a href="#about" class="hover:text-primary-500">About</a>
             <a href="#skills" class="hover:text-primary-500">Skills</a>
             <a href="#projects" class="hover:text-primary-500">Projects</a>
-            <a href="#experience" class="hover:text-primary-500">Experience</a>
             <a href="#contact" class="hover:text-primary-500">Contact</a>
           </div>
 
@@ -49,7 +48,6 @@ watch(y, (value) => {
             <a href="#about" class="block px-3 py-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800">About</a>
             <a href="#skills" class="block px-3 py-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800">Skills</a>
             <a href="#projects" class="block px-3 py-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800">Projects</a>
-            <a href="#experience" class="block px-3 py-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800">Experience</a>
             <a href="#contact" class="block px-3 py-2 rounded-md hover:bg-gray-100 dark:hover:bg-gray-800">Contact</a>
           </div>
         </DisclosurePanel>

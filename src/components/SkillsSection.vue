@@ -2,28 +2,24 @@
 const skills = [
   {
     category: 'Programming Languages',
-    items: ['Python', 'SQL', 'R', 'Java']
+    items: ['Python', 'SQL', 'R']
   },
   {
-    category: 'Big Data Technologies',
-    items: ['Apache Spark', 'Hadoop', 'Apache Kafka', 'Apache Airflow']
+    category: 'Databases & Data Platforms',
+    items: ['SQL Server', 'DuckDB', 'Microsoft Fabric', 'PostgreSQL']
   },
   {
-    category: 'Cloud Platforms',
-    items: ['Azure', 'Google Cloud', 'AWS', 'Snowflake']
+    category: 'Data Engineering & ETL',
+    items: ['Python', 'SQL', 'Pandas', 'PyArrow', 'Parquet']
   },
   {
-    category: 'Data Warehousing',
-    items: ['Redshift', 'BigQuery', 'Snowflake', 'PostgreSQL']
+    category: 'Analytics & BI',
+    items: ['Power BI', 'DAX', 'Power Query', 'Tableau', 'Grafana', 'Streamlit', 'Plotly']
   },
   {
-    category: 'ETL Tools',
-    items: ['dbt', 'Apache NiFi', 'Informatica', 'Talend']
+    category: 'Development & Database Tools',
+    items: ['Git', 'GitHub', 'SSMS']
   },
-  {
-    category: 'Version Control & CI/CD',
-    items: ['Git', 'GitHub Actions', 'Jenkins', 'Docker']
-  }
 ]
 </script>
 

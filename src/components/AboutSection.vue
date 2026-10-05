@@ -5,25 +5,19 @@
       <div class="grid md:grid-cols-2 gap-12 items-center">
         <div class="space-y-6">
           <p class="text-lg text-gray-600 dark:text-gray-300">
-            As a passionate Data Engineer, I specialize in building robust data infrastructure
-            and creating efficient data pipelines. With extensive experience in both batch
-            and real-time processing, I help organizations transform their data into
-            valuable insights.
+            As a data professional with over <strong>seven years of experience</strong>, I specialize in building impactful solutions across <strong>data engineering, analytics, machine learning, and dashboard development</strong>. Working with large and complex datasets across the automotive and energy sectors, I help organizations <strong>improve decision-making, optimize revenue, reduce costs, and enhance product quality</strong>.
           </p>
           <p class="text-lg text-gray-600 dark:text-gray-300">
-            My expertise includes designing scalable ETL processes, implementing data
-            warehousing solutions, and optimizing data workflows for maximum efficiency.
-            I'm particularly interested in modern data stack technologies and best
-            practices in data engineering.
+            Currently at <strong>Bosch</strong>, I develop data and analytics solutions that help project managers and internal customers <strong>improve product quality, drive sales, and manage projects more effectively</strong>. I enjoy working both autonomously and collaboratively with curious, positive, and solution-oriented people who are passionate about <strong>solving meaningful problems and creating real business value with data</strong>.
           </p>
         </div>
         <div class="grid grid-cols-2 gap-6">
           <div class="card">
-            <h3 class="text-xl font-semibold mb-2">5+ Years</h3>
-            <p class="text-gray-600 dark:text-gray-400">Experience</p>
+            <h3 class="text-xl font-semibold mb-2">7+ Years</h3>
+            <p class="text-gray-600 dark:text-gray-400">Expertise</p>
           </div>
           <div class="card">
-            <h3 class="text-xl font-semibold mb-2">50+</h3>
+            <h3 class="text-xl font-semibold mb-2">20+</h3>
             <p class="text-gray-600 dark:text-gray-400">Projects</p>
           </div>
           <div class="card">
